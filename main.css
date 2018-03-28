@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: 'Indie Flower', cursive;
+}
+
+div {
+  text-align: center;
+}
+
+ul {
+  padding-left: 20%;
+  list-style-position: inside;
+  text-align: left;
+  vertical-align: middle;
+  line-height: 3rem;
+  font-size: 30px;
+  color: #9999ff;
+}
+
+h1 {
+  font-size: 90px;
+  color: #9999ff;
+}
+
+h3 {
+  font-size: 40px;
+}
+
+#header {
+  color: black;
+  height: auto;
+  width: 100%;
+  margin: 0;
+}
+
+#finalFact {
+  height: 300px;
+  padding-right: 3rem;
+  margin-left: 3rem;
+}
+
+#facts {
+  padding-bottom: 3rem;
+}
+
+#images {
+  padding-bottom: 3rem;
+}
+
+img {
+  border: .8rem solid;
+  width: 30%;
+  height: auto;
+}
